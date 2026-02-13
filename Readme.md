@@ -32,7 +32,7 @@ The following example prevents users from collapsing the **Status: Invalidated**
 * [WPF Data Grid - How to Apply Custom Rules to Group Rows](https://github.com/DevExpress-Examples/how-to-implement-custom-grouping-e1530)
 * [WPF Data Grid - Sort Group Rows by Summary Values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-grid-prevent-expand-collapse-operations-for-group-rows&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-grid-prevent-expand-collapse-operations-for-group-rows&~~~was_helpful=no)
 
